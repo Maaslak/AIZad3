@@ -1,1 +1,3 @@
 # AIZad3
+
+TODO 11.
